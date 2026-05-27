@@ -8,3 +8,7 @@
 # 환경변수
 .env
 .env.*
+
+# AI
+AGENTS.md
+CLAUDE.md
