@@ -1,5 +1,5 @@
 import { LoginHero } from "@/features/auth/components/login-hero";
 
-export default function Home() {
-  return <LoginHero showFooter />;
+export default function LoginPage() {
+  return <LoginHero />;
 }
